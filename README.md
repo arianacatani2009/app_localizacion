@@ -4,6 +4,8 @@
 - Alejandro Chango
 - Nataly Casillas
   
+# VERIFICAR LO QUE SE GUARDO EN EL FIREBASE
+![image](https://github.com/user-attachments/assets/5f248776-566d-40db-ad7f-a22f5c98eb12)
 
 
 # VIDEOS
