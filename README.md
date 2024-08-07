@@ -10,27 +10,27 @@
 - Video explicativo: https://youtu.be/F4JUYCzaYTs
 
 # ENLACES
-- Página Web: [https://geo-poli.vercel.app/](http://localhost:3000/home)
+- Página Web: http://localhost:3000/login
 - APK: El apk se encuentra subido en los archivos
 - Aplicación en Aptoide:
 
 # Para la instalacion de la APP
 - CLonar el repositorio
 ```
-git clone https://github.com/marlon1925/geoPoli.git
+git clone https://github.com/arianacatani2009/app_localizacion.git
 ```
-- Iniciar el repositorio clonado en el respectivo IDE para dispositivos móviles.
+Ejecutamos, debemos tener en cuenta que el aplicativo movil esta hecho en Android studio con JAVA PURO
 
 # INSTALAR APLICATIVO WEB
 - CLonar el repositorio
 ```
-git clone https://github.com/WilsonG08/PAGINA_WEB.git
+git clone https://github.com/arianacatani2009/web_localizacion.git
 ```
-- Instalar las respectivas dependencias
+- Instalar las respectivas dependencias para evitarnos errores 
 ```
 npm install
 ```
-- Levantar Servidor
+levantamos el servicio 
 ```
 npm start
 ```
