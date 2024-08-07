@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "152987672943",
+    "firebase_url": "https://movileslocation-default-rtdb.firebaseio.com",
+    "project_id": "movileslocation",
+    "storage_bucket": "movileslocation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152987672943:android:e092dbfddea26ad249c89a",
+        "android_client_info": {
+          "package_name": "com.poli2024.geopoli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChoxbpPtZ-NYdVHk2u0sLG2uS70PttiXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
