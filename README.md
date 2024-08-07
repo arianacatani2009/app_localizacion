@@ -10,7 +10,7 @@
 - Video explicativo: https://youtu.be/F4JUYCzaYTs
 
 # ENLACES
-- Página Web: https://geo-poli.vercel.app/
+- Página Web: [https://geo-poli.vercel.app/](http://localhost:3000/home)
 - APK: https://epnecuador-my.sharepoint.com/:f:/g/personal/josue_salazar_epn_edu_ec/EnZvxd80YAlCjVp5tyM2_2MBp1xeBUBNMMkbFMmXq05CFw?e=NctWYA
 - Aplicación en Aptoide: https://geo-poli.es.aptoide.com/?store_name=marlon1925&app_id=67185014
 
