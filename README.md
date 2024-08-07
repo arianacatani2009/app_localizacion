@@ -10,7 +10,7 @@
 - Video explicativo: https://youtu.be/F4JUYCzaYTs
 
 # ENLACES
-- Página Web: http://localhost:3000/login
+- Página Web: 
 - APK: El apk se encuentra subido en los archivos
 - Aplicación en Aptoide:
 
