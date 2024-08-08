@@ -12,7 +12,7 @@
 - Video explicativo: https://youtu.be/F4JUYCzaYTs
 
 # ENLACES
-- Página Web: 
+- Página Web: https://web-localizacion-nrumcsvto-arianacatani2009s-projects.vercel.app/
 - APK: El apk se encuentra subido en los archivos
 - Aplicación en Aptoide:
 
