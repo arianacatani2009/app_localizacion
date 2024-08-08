@@ -30,9 +30,9 @@
 
     <Button
         android:id="@+id/btnSave"
-        android:layout_width="142dp"
-        android:layout_height="46dp"
-        android:text="Guardar"
+        android:layout_width="151dp"
+        android:layout_height="63dp"
+        android:text="Guardar ubicacion"
         map:layout_constraintBottom_toBottomOf="@+id/map"
         map:layout_constraintEnd_toEndOf="parent"
         map:layout_constraintHorizontal_bias="0.923"
@@ -57,24 +57,27 @@
         android:layout_width="153dp"
         android:layout_height="49dp"
         android:text="Historial"
+        map:iconTint="#8964CC"
         map:layout_constraintBottom_toBottomOf="@+id/map"
         map:layout_constraintEnd_toEndOf="parent"
         map:layout_constraintHorizontal_bias="1.0"
         map:layout_constraintStart_toStartOf="parent"
         map:layout_constraintTop_toTopOf="parent"
-        map:layout_constraintVertical_bias="0.058" />
+        map:layout_constraintVertical_bias="0.058"
+        map:strokeColor="#70589B" />
 
     <Button
         android:id="@+id/addMarkerBtn"
         android:layout_width="187dp"
         android:layout_height="55dp"
-        android:text="Dejar Marcador"
+        android:text="Marcar ubicacion"
         map:layout_constraintBottom_toBottomOf="@+id/map"
         map:layout_constraintEnd_toEndOf="parent"
         map:layout_constraintHorizontal_bias="0.071"
         map:layout_constraintStart_toStartOf="parent"
         map:layout_constraintTop_toTopOf="parent"
-        map:layout_constraintVertical_bias="0.902" />
+        map:layout_constraintVertical_bias="0.902"
+        map:rippleColor="#8163B8" />
 
     <TextView
         android:id="@+id/squareFeet"

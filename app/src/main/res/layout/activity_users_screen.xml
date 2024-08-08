@@ -101,13 +101,7 @@
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         >
-                        <TextView
-                            android:id="@+id/textView10"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Email:"
-                            android:layout_marginRight="20px"
-                            />
+
                         <TextView
                             android:id="@+id/itemEmail"
                             android:layout_width="wrap_content"
@@ -115,7 +109,15 @@
                             android:text=""
                             />
 
+                        <TextView
+                            android:id="@+id/textView10"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="20px"
+                            android:text="correo electronico:" />
+
                     </LinearLayout>
+
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -129,7 +131,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginHorizontal="10px"
                             android:layout_marginVertical="20px"
-                            android:backgroundTint="#53d3a3"
+                            android:backgroundTint="#534389"
 
                             android:text="Medir terreno"
                             android:textSize="30px">
@@ -142,8 +144,8 @@
                             android:layout_height="wrap_content"
                             android:layout_marginHorizontal="10px"
                             android:layout_marginVertical="20px"
-                            android:backgroundTint="#53d3a3"
-                            android:text="todos los mineros"
+                            android:backgroundTint="#8053D3"
+                            android:text="Lista de usuarios"
                             android:textSize="30px">
 
                         </Button>
@@ -152,7 +154,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Mineros">
+                        android:text="usuarios">
 
                     </TextView>
                 </LinearLayout>
@@ -172,13 +174,16 @@
 
 
         >
+
         <Button
             android:id="@+id/startServices"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:layout_marginHorizontal="10px"
-            android:text="Capturar ubicación" />
+            android:layout_weight="1"
+            android:text="Obtener ubicacion"
+            app:rippleColor="#7D55C3" />
+
         <Button
             android:id="@+id/signOut"
             android:layout_width="match_parent"
@@ -186,7 +191,9 @@
             android:layout_marginHorizontal="10px"
 
             android:layout_weight="1"
-            android:text="Cerrar sesión" />
+            android:text="Cerrar sesión"
+            app:rippleColor="#6C48AB" />
+
         <Button
             android:id="@+id/endServices"
             android:layout_width="match_parent"
@@ -194,7 +201,8 @@
             android:layout_marginHorizontal="10px"
 
             android:layout_weight="1"
-            android:text="Detener Ubicación" />
+            android:text="Cancelar Ubicación"
+            app:strokeColor="#7449C1" />
 
     </LinearLayout>
 

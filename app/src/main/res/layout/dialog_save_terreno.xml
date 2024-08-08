@@ -8,11 +8,11 @@
         android:id="@+id/textViewTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Guardar Terreno"
-        android:textSize="20sp"
-        android:textStyle="bold"
         android:gravity="center"
-        android:paddingBottom="8dp" />
+        android:paddingBottom="8dp"
+        android:text="Asegurar terreno"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
     <EditText
         android:id="@+id/editTextTerrenoName"

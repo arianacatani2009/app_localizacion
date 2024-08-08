@@ -104,7 +104,7 @@
                 android:layout_height="48dp"
                 android:layout_marginVertical="20dp"
                 android:layout_marginBottom="75px"
-                android:backgroundTint="@color/purple"
+                android:backgroundTint="@color/teal_200"
                 android:onClick="IrTabs"
                 android:text="@string/txt_btRegistrarse"
                 android:textSize="18sp"
@@ -121,7 +121,7 @@
                 android:layout_height="48dp"
                 android:layout_marginVertical="20dp"
                 android:layout_marginBottom="75px"
-                android:backgroundTint="@color/purple"
+                android:backgroundTint="@color/teal_200"
                 android:onClick="IrLoginAct"
                 android:text="@string/txt_button_login"
                 android:textSize="18sp"
@@ -133,9 +133,5 @@
 
         </LinearLayout>
     </androidx.cardview.widget.CardView>
-
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="155dp" />
 
 </LinearLayout>
