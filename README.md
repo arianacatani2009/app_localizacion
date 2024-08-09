@@ -14,7 +14,7 @@
 # ENLACES
 - Página Web: https://web-localizacion-nrumcsvto-arianacatani2009s-projects.vercel.app/login
 - APK: El apk se encuentra subido en los archivos
-- Aplicación en Aptoide:
+- Aplicación en Aptoide: https://Encuentrame.es.aptoide.com/?store_name=encuentrame&app_id=68470499
 
 # Para la instalacion de la APP
 - CLonar el repositorio
