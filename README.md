@@ -25,7 +25,8 @@ Al ejecutar la aplicación móvil, es importante tener en cuenta que está desar
 
 Al abrir la aplicación, se mostrará la pantalla de inicio de sesión, donde el usuario deberá ingresar las credenciales previamente registradas en la página web.
 
-![image](https://github.com/user-attachments/assets/4c932bea-12a1-4bab-89fb-6e52f5aef354)
+![image](https://github.com/user-attachments/assets/02c9421c-640d-4d28-a44b-a7223b2e4a66)
+
 
 # VERIFICAR LO QUE SE GUARDO EN EL FIREBASE
 ![image](https://github.com/user-attachments/assets/5f248776-566d-40db-ad7f-a22f5c98eb12)
