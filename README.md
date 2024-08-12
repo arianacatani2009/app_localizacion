@@ -21,17 +21,19 @@
 ```
 git clone https://github.com/arianacatani2009/app_localizacion.git
 ```
-Ejecutamos, debemos tener en cuenta que el aplicativo movil esta hecho en Android studio con JAVA PURO
+Al ejecutar la aplicación móvil, es importante tener en cuenta que está desarrollada en Android Studio utilizando Java puro.
 
 Cuando abrimos nuestra aplicacion de ubicacion llamada Encuentrame 
 
 ![image](https://github.com/user-attachments/assets/c439a1d9-b2ec-4edf-8208-0cda88b38107)
 
-Abrimos la aplicacion y se mostrara el inicio de sesion y ingresamos nuestras credenciales que antes ya habiamos registrado en la pagina web
+Al abrir la aplicación, se mostrará la pantalla de inicio de sesión, donde el usuario deberá ingresar las credenciales previamente registradas en la página web.
 
 ![image](https://github.com/user-attachments/assets/4c932bea-12a1-4bab-89fb-6e52f5aef354)
 
-y al ingresar se nos mostrara esto donde podemos vizualizar varias opciones
+
+Al ingresar, se mostrará una pantalla donde se pueden visualizar varias opciones.
+
 
 ![image](https://github.com/user-attachments/assets/66416347-11bf-47c1-821e-86cf52f60d17)
 
