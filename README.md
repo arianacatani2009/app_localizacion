@@ -1,8 +1,4 @@
 # ENCUENTRAME APP 
-
-![image](https://github.com/user-attachments/assets/32c1dd8e-b7fc-44a9-8c31-f6fdaac9173a)
-
-
 Esta es una aplicación creada en Android Nativo con Java y Kotlin, que permite calcular el área de un sector utilizando la localización GPS.
 # INTEGRANTES
 - Ariana Catani
@@ -12,7 +8,7 @@ Esta es una aplicación creada en Android Nativo con Java y Kotlin, que permite 
 - Página Web: https://web-localizacion-nrumcsvto-arianacatani2009s-projects.vercel.app/login
 - APK: El apk se encuentra subido en los archivos
 - Aplicación en Aptoide: https://Encuentrame.es.aptoide.com/?store_name=encuentrame&app_id=68470499
-  
+
 # VIDEOS
 - Video explicativo: https://youtu.be/m_J2Mhhk6A0?si=Zfw1adKYjR5VMBfU
 
@@ -22,6 +18,9 @@ Esta es una aplicación creada en Android Nativo con Java y Kotlin, que permite 
 git clone https://github.com/arianacatani2009/app_localizacion.git
 ```
 Al ejecutar la aplicación móvil, es importante tener en cuenta que está desarrollada en Android Studio utilizando Java puro.
+
+
+![image](https://github.com/user-attachments/assets/32c1dd8e-b7fc-44a9-8c31-f6fdaac9173a)
 
 Cuando abrimos nuestra aplicacion de ubicacion llamada Encuentrame 
 
