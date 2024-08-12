@@ -22,9 +22,6 @@ Al ejecutar la aplicación móvil, es importante tener en cuenta que está desar
 
 ![image](https://github.com/user-attachments/assets/32c1dd8e-b7fc-44a9-8c31-f6fdaac9173a)
 
-Cuando abrimos nuestra aplicacion de ubicacion llamada Encuentrame 
-
-![image](https://github.com/user-attachments/assets/c439a1d9-b2ec-4edf-8208-0cda88b38107)
 
 Al abrir la aplicación, se mostrará la pantalla de inicio de sesión, donde el usuario deberá ingresar las credenciales previamente registradas en la página web.
 
