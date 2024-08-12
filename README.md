@@ -4,10 +4,6 @@
 - Alejandro Chango
 - Nataly Casillas
   
-# VERIFICAR LO QUE SE GUARDO EN EL FIREBASE
-![image](https://github.com/user-attachments/assets/5f248776-566d-40db-ad7f-a22f5c98eb12)
-
-
 # VIDEOS
 - Video explicativo: https://youtu.be/m_J2Mhhk6A0?si=Zfw1adKYjR5VMBfU
 
@@ -31,6 +27,8 @@ Al abrir la aplicación, se mostrará la pantalla de inicio de sesión, donde el
 
 ![image](https://github.com/user-attachments/assets/4c932bea-12a1-4bab-89fb-6e52f5aef354)
 
+# VERIFICAR LO QUE SE GUARDO EN EL FIREBASE
+![image](https://github.com/user-attachments/assets/5f248776-566d-40db-ad7f-a22f5c98eb12)
 
 Al ingresar, se mostrará una pantalla donde se pueden visualizar varias opciones.
 
@@ -64,6 +62,7 @@ y en lista de usuarios se nos a vizualizar las personas que estan con su usuario
 y al ultimos tenemos el detener ubicacion y cerrar sesion
 
 ![image](https://github.com/user-attachments/assets/ba5d383e-0ce5-49db-a41b-fbe8ac8d86fe)
+
 
 
 # INSTALAR APLICATIVO WEB
