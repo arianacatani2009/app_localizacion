@@ -44,7 +44,7 @@ otra opcion es donde dice marcar terreno donde se va vizualizar nuestra ubicacio
 
 Despues de marcar el terreno que queramos medir tenemos la opcion de guardar lo que medimos el terreno
 
-![image](https://github.com/user-attachments/assets/9f6e5443-b265-4d93-8288-1cc7b9ece853)
+![image](https://github.com/user-attachments/assets/d5cba1fe-3f06-4a2c-baa0-25fda63c09ec)
 
 ![image](https://github.com/user-attachments/assets/9f082849-dd3e-401f-8bfa-41264140fd6e)
 
