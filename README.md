@@ -18,8 +18,6 @@ Esta es una aplicación creada en Android Nativo con Java, que permite calcular 
 git clone https://github.com/arianacatani2009/app_localizacion.git
 ```
 Al ejecutar la aplicación móvil, es importante tener en cuenta que está desarrollada en Android Studio utilizando Java puro.
-
-
 ![image](https://github.com/user-attachments/assets/32c1dd8e-b7fc-44a9-8c31-f6fdaac9173a)
 
 
