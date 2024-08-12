@@ -1,5 +1,5 @@
 # ENCUENTRAME APP 
-Esta es una aplicación creada en Android Nativo con Java y Kotlin, que permite calcular el área de un sector utilizando la localización GPS.
+Esta es una aplicación creada en Android Nativo con Java, que permite calcular el área de un sector utilizando la localización GPS.
 # INTEGRANTES
 - Ariana Catani
 - Alejandro Chango
